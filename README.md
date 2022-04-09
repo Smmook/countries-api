@@ -4,5 +4,5 @@ Desafio de [Frontend Mentor](https://www.frontendmentor.io/challenges/rest-count
 
 ## Recursos
 
-[Guia](https://bluuweb.github.io/practicas/01-api-paises/#requisitos)
-[REST countries API](https://restcountries.com/)
+- [Guia](https://bluuweb.github.io/practicas/01-api-paises/#requisitos)
+- [REST countries API](https://restcountries.com/)
